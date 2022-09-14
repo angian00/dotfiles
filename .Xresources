@@ -1,0 +1,88 @@
+*selectToClipboard: true
+
+XTerm*termName: xterm-256color
+
+!fonts&stuff
+!-------------------------
+*faceSize: 14
+*eightBitInput: false
+*faceName: Hack Nerd Font
+
+!Turning off scrollbar
+*scrollBar:  off
+
+!Starting up with a geometry
+*vt100*geometry:   88x24
+
+!!Colors
+!!-------------------------
+
+!Background & foreground
+!*background: #002B36
+!*foreground: #D2D2D2
+!*borderColor: #343434
+
+!!black
+!xterm*color0: #222222
+!xterm*color8: #454545
+!
+!!red
+!xterm*color1: #9E5641
+!xterm*color9: #CC896D
+!
+!!green
+!xterm*color2: #6C7E55
+!xterm*color10: #C4DF90
+!
+!!yellow
+!xterm*color3: #CAAF2B
+!xterm*color11: #FFE080
+!
+!!blue
+!xterm*color4: #7FB8D8
+!xterm*color12: #B8DDEA
+!
+!!magenta
+!xterm*color5: #956D9D
+!xterm*color13: #C18FCB
+!
+!!cyan
+!xterm*color6: #4c8ea1
+!xterm*color14: #6bc1d0
+!
+!!white
+!xterm*color7: #808080
+!xterm*color15: #cdcdcd
+
+
+! Custom
+! Original theme https://github.com/nathanbuchar/atom-one-dark-terminal
+XTerm*.foreground:    #ABB2BF
+XTerm*.background:    #1E2127
+!XTerm*.cursorColor:   #5C6370
+!XTerm*.highlightColor:#3A3F4B
+
+! Negro y gris
+*.color0:        #1E2127
+*.color8:        #5C6370
+! Rojos
+*.color1:        #E06C75
+*.color9:        #E06C75
+! Verde
+*.color2:        #98C379
+*.color10:       #98C379
+! Amarillo
+*.color3:        #D19A66
+*.color11:       #D19A66
+! Azul
+*.color4:        #61AFEF
+*.color12:       #61AFEF
+! Magenta
+*.color5:        #C678DD
+*.color13:       #C678DD
+! Cyan
+*.color6:        #56B6C2
+*.color14:       #56B6C2
+! Blanco
+*.color7:        #ABB2BF
+*.color15:       #FFFFFF
