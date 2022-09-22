@@ -33,3 +33,8 @@ set cursorline
 
 set path+=**
 set wildmenu
+
+set noexpandtab
+set copyindent
+set tabstop=4
+
